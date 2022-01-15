@@ -1,0 +1,8 @@
+{
+  "name": "lmi-app-creator",
+  "version": "1.0.0",
+  "type": "microApp",
+  "optionalFeatures": [],
+  "description": "This file is needed for upgrades. Please do not delete this file.",
+  "appName": "aaa"
+}
